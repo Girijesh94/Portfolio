@@ -8,7 +8,7 @@ A responsive recreation of the supplied video reference, personalized for Girije
 npm run dev
 ```
 
-Open http://127.0.0.1:5173. Deploy the contents of `dist/` to any static web host. Sites identity and output configuration are in `.openai/hosting.json`.
+Open http://127.0.0.1:5173. Deploy the contents of `dist/` to any static web host. No build step is needed for static hosting.
 
 ## Edit
 
